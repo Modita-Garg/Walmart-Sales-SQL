@@ -7,7 +7,7 @@ This project delves into the Walmart Sales dataset, aiming to analyze top-perfor
 The major aim of thie project is to gain insight into the sales data of Walmart to understand the different factors that affect sales of the different branches.
 
 ## Data Sources
-The primary dataset used for this analysis is 'WalmartSalesData.csv.'.
+The primary dataset used for this analysis is [WalmartSalesData.csv](https://github.com/Modita-Garg/Walmart-Sales-SQL/blob/main/WalmartSalesData.csv).
 
 ## Business Questions Answered
 
@@ -51,5 +51,5 @@ The primary dataset used for this analysis is 'WalmartSalesData.csv.'.
 10. Which day of the week has the best average ratings per branch?
 
 ## Report
-The final report is presented in 'Pizza Sales Report.pdf'.
+The final report is presented in [Walmart Sales Analysis.pdf](https://github.com/Modita-Garg/Walmart-Sales-SQL/blob/main/Walmart%20Sales%20Analysis.pdf).
 
